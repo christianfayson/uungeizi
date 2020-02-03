@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aexoonooz.yangyubo.com/sitemap.xml
